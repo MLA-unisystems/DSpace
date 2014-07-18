@@ -5,7 +5,11 @@
    <artifactId>dspace-parent</artifactId>
    <packaging>pom</packaging>
    <version>4.3-SNAPSHOT</version>
+<<<<<<< HEAD
    <name>DSpace Parent Project SVN</name>
+=======
+   <name>DSpace Parent Project</name>
+>>>>>>> Fix DS-2068 Tell Travis CI to retry a failed build
    <description>
    	DSpace open source software is a turnkey institutional repository application.
    </description>
